@@ -1,5 +1,5 @@
 {
-  "name": "electron-log",
+  "name": "@xailabs/electron-log",
   "version": "2.2.11",
   "description": "Just a very simple logging module for your Electron application",
   "main": "./index.js",
